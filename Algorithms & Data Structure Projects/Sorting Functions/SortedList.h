@@ -2,16 +2,7 @@
 //
 //		File:					SortedList.h
 //
-//		Student:				Haylee Tischler
-//
-//		Assignment:				11
-//
-//		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3100-01
-//
-//		Due:					April 22, 2024
-//
+//		Author:					Haylee Tischler
 //
 //		This a class with different sorting functions
 //	
@@ -410,6 +401,7 @@ void SortedList<T> :: heapSortD(T arr[], int n)
 //*****************************************************************************************************
 
 #endif // !SORTEDLIST_H
+
 
 
 
