@@ -31,25 +31,31 @@ This lab demonstrates the deployment and administration of an Active Directory d
 **Structure Diagram**
 ![Structure Diagram](Screenshots/structure-diagram.png)
 
+
 **OU Structure**
 
 ![OU Structure](Screenshots/ou-structure.png)
+
 
 **Finance OU Objects**
 
 ![Finance OU Objects](Screenshots/finance-ou-objects.png)
 
+
 **Finance Group Members**
 
 ![Finance Group Members](Screenshots/group-membership.png)
+
 
 **GPO Help Desk Wallpaper**
 
 ![GPO Help Desk Wallpaper](Screenshots/gpo-helpdesk-wallpaper.png)
 
+
 **Saved Query - All Users**
 
 ![Saved Query - All Users](Screenshots/saved-query-all-users.png)
+
 
 **PowerShell - List all Users**
 
