@@ -1,2 +1,2 @@
-# cybersecurity-portfolio
-This repository showcases hands-on projects I’ve completed while building my skills in security operations, threat detection, and system hardening. Each project is based on real-world attack scenarios and demonstrates my ability to investigate suspicious activity, analyze malicious files, and apply defensive controls to protect systems.
+# IT Portfolio
+A collection of hands-on IT, systems administration, cybersecurity, and software projects demonstrating practical experience with Active Directory, Group Policy, networking, security tooling, and full-stack web development. Projects focus on real-world scenarios, including domain administration, user and access management, network traffic analysis, and building maintainable applications.
