@@ -2,16 +2,7 @@
 //
 //		File:					Stock.cpp
 //
-//		Student:				Haylee Tischler
-//
-//		Assignment:				11
-//
-//		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3100-01
-//
-//		Due:					April 22, 2024
-//
+//		Author:					Haylee Tischler
 //
 //		This program contains the definitions for the member functions of the Stock.
 //	
@@ -70,4 +61,5 @@ Stock* Stock:: operator =(const Stock& rhs)
 }
 
 //*****************************************************************************************************
+
 
