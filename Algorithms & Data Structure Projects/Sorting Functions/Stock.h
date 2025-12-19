@@ -2,16 +2,7 @@
 //
 //		File:					Stock.h
 //
-//		Student:				Haylee Tischler
-//
-//		Assignment:				11
-//
-//		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3100-01
-//
-//		Due:					April 22, 2024
-//
+//		Author:					Haylee Tischler
 //
 //		This program is a Stock class
 //	
@@ -109,4 +100,5 @@ bool Stock:: operator >(const Stock& rhs) const
 }
 
 //*****************************************************************************************************
+
 #endif
