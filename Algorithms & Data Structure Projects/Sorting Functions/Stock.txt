@@ -1,0 +1,45 @@
+Apple
+AAPL
+234.2
+Advanced Micro Devices
+AMD
+84.51
+Intel
+INTC
+60.78
+Motorola Inc.
+MOT
+17.49
+Microsoft Corp.
+MSFT
+28.11
+NVIDIA
+NVDA
+548.58
+Sony
+SNE
+105.81
+Tesla
+TSLA
+564.33
+XApple
+XAAPL
+221.73
+XNVIDIA
+XNVDA
+648.58
+haylee
+HT
+756.32
+mj
+MJJ
+2726.03
+anika
+ANK
+345.22
+madelynne
+MAD
+123.29
+gavin
+GAV
+285.94
